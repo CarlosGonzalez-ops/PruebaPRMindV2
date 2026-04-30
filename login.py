@@ -11,7 +11,7 @@ class LoginRequest(BaseModel):
 
 USERS = {
     "alice": {
-        "password": "correct-horse-battery-staple",
+        "password": "correct-horse-battery-staple-v2",
         "role": "admin",
     }
 }
